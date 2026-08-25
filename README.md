@@ -13,7 +13,7 @@
 🌱 Currently exploring AWS, Spring Boot, Docker, and scalable system design
 📍 Roorkee, Uttarakhand, India
 
---
+---
 ### 🛠️ Tech Stack
 
 * Frontend: HTML, CSS, JavaScript, React  
