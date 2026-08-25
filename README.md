@@ -1,10 +1,10 @@
-                                                    ## Hi 👋, I'm Vishal Kumar
+###                                             Hi 👋, I'm Vishal Kumar
 
 🚀 AI & MERN Stack Developer | Full Stack Engineer | Problem Solver
 
 ---
 
- ###👨‍💻 About Me
+### 👨‍💻 About Me
 
 🎓 B.Tech CSE Student at Haridwar University (2023–2027)
 🚀 AI & MERN Stack Developer building scalable full-stack applications
