@@ -1,16 +1,23 @@
-## Hi there 👋
+ Hi 👋, I'm Vishal Kumar
 
-<!--
-**vishalrajkumar829285-a11y/vishalrajkumar829285-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI & MERN Stack Developer | Full Stack Engineer | Problem Solver
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 👨‍💻 About Me
+
+🎓 B.Tech CSE Student at Haridwar University (2023–2027)
+🚀 AI & MERN Stack Developer building scalable full-stack applications
+🤖 Passionate about RAG, LangChain, LangGraph, Agentic AI, and AI-powered products
+💡 Strong in JavaScript, TypeScript, REST APIs, MongoDB, and DSA (C++)
+🌱 Currently exploring AWS, Spring Boot, Docker, and scalable system design
+📍 Roorkee, Uttarakhand, India
+
+
+ 🛠️ Tech Stack
+
+* Frontend: HTML, CSS, JavaScript, React  
+* Backend: Node.js, Express, MongoDB  
+* Tools & Languages: Git, GitHub, VScode, C++, Python
+
+
